@@ -1,0 +1,39 @@
+.dark-background-color {
+  background-color: #1F2937;
+}
+
+.hero-main-text {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8; 
+}
+
+.hero-sec-text, .header-link-text {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.header-logo-text {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.button-color, .call-to-action-color {
+  background-color: #3882F6;
+}
+
+.random-info-header-text {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+}
+
+.quote-background-color {
+  background-color: #E5E7EB;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 200;
+}
